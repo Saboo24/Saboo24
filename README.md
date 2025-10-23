@@ -10,6 +10,10 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer p
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
+
+
+
+
 ---
 
 ### 📬 Connect with Me
