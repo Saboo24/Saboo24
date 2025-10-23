@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Amine%20Hamzaoui&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" />
 
-I'm **Amine Hamzaoui**, a passionate **Software Developer** who enjoys understanding how systems work —  
-from low-level **logic circuits** to high-level **applications**.  
+I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer passionate about AI and Machine Learning. I enjoy building interactive web projects and exploring intelligent solutions.
 
-With solid experience in **Java**, **C**, and **modern web technologies**,  
-I aim to create efficient, reliable, and scalable software that combines logic and creativity.  
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
@@ -54,6 +52,7 @@ I aim to create efficient, reliable, and scalable software that combines logic a
 
 
 ---
+
 
 ## 🏆 Top Contributed Repo
 
