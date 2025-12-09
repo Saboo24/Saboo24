@@ -46,7 +46,7 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,nodejs,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=light" />
   </a>
 </p>
 
